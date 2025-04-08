@@ -3,11 +3,11 @@
 This is a data analytics project where I explored bike rental trends in London using a dataset from Kaggle. 
 I cleaned the data using Python and Jupyter Notebook, then visualized the insights through an interactive dashboard in Tableau.
 
-The goal was to go through a complete data workflow—from raw data to a polished dashboard—and showcase practical data storytelling skills.
+**The goal was to go through a complete data workflow—from raw data to a polished dashboard—and showcase practical data storytelling skills.**
 ----------------------------
 ## 📊 Project Summary
 
-The dataset includes hourly bike rental data from 2015 to 2017, with weather conditions like temperature, humidity, and wind speed. I wanted to understand when people rent bikes the most, and what external factors (like weather or day of the week) influence that behavior.
+**The dataset includes hourly bike rental data from 2015 to 2017, with weather conditions like temperature, humidity, and wind speed. I wanted to understand when people rent bikes the most, and what external factors (like weather or day of the week) influence that behavior.**
 -----------------------------
 ## 🧹 Data Cleaning & Preparation
 
